@@ -1,0 +1,2 @@
+this  is a  write programe of a  text file in python
+ and this work successfully my name is  ankush sharma
